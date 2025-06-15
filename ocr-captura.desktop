@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OCR MINI
+Exec=/usr/local/bin/ocr.sh
+Icon=accessories-text-editor
+Type=Application
+Categories=Utility;
+Comment=Captura pantalla y extrae texto (OCR)
+Terminal=false
+
