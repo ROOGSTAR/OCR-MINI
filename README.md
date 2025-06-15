@@ -1,4 +1,4 @@
-# 🖼️ OCR Mini App para Linux (estilo PowerToys)
+# 🖼️ OCR Mini App para Linux
 
 Herramienta minimalista que permite **capturar una región de la pantalla**, **extraer el texto (OCR)** y **copiarlo automáticamente al portapapeles**, al estilo PowerToys de Windows.
 
