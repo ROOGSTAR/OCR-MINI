@@ -20,7 +20,7 @@ sudo dnf install tesseract gnome-screenshot xclip libnotify
 Clona el repositorio y ejecuta el instalador:
 
 ```bash
-git clone https://github.com/tuusuario/ocr-mini.git
+git clone https://github.com/ROOGSTAR/ocr-mini.git
 cd ocr-mini
 bash install.sh
 ```
